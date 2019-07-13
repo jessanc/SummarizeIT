@@ -23,13 +23,13 @@ module.exports.hello = async event => {
 module.exports.uploadAudio = (event, context, callback) => {
   var s3 = new AWS.S3();
   let request = event.body;
-  let base64string = request.base64String;
-  let buffer = new Buffer(base64string, 'base64');
+  let buffer = Buffer.from(request, 'base64').toString();
 
   var s3Params = {
     Bucket: 'summarizeitaudios',
     Key:  uuid(),
     Body: buffer,
+    ContentType: 'wav',
     ACL: 'public-read',
   };
 
