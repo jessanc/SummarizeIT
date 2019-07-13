@@ -1,6 +1,7 @@
 'use strict';
 
 const AWS = require('aws-sdk');
+const uuid = require('uuid/v4');
 
 module.exports.hello = async event => {
   return {
@@ -21,12 +22,14 @@ module.exports.hello = async event => {
 
 module.exports.uploadAudio = (event, context, callback) => {
   var s3 = new AWS.S3();
-  var params = JSON.parse(event.body);
+  let request = event.body;
+  let base64string = request.base64String;
+  let buffer = new Buffer(base64string, 'base64');
 
   var s3Params = {
     Bucket: 'summarizeitaudios',
-    Key:  params.name,
-    ContentType: params.type,
+    Key:  uuid(),
+    Body: buffer,
     ACL: 'public-read',
   };
 
