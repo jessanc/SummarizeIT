@@ -1,0 +1,25 @@
+{
+  "name": "summarizeit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-sdk": "^2.493.0",
+    "serverless": "^1.47.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessanc/SummarizeIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessanc/SummarizeIT/issues"
+  },
+  "homepage": "https://github.com/jessanc/SummarizeIT#readme"
+}
