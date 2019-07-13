@@ -2,6 +2,7 @@
 
 const AWS = require('aws-sdk');
 const uuid = require('uuid/v4');
+const promise = require('promise');
 
 module.exports.hello = async event => {
   return {
@@ -33,15 +34,24 @@ module.exports.uploadAudio = (event, context, callback) => {
     ACL: 'public-read',
   };
 
-  var uploadURL = s3.getSignedUrl('putObject', s3Params);
+  var uploadURL;;
 
-  callback(null, {
-    statusCode: 200,
-    headers: {
-      'Access-Control-Allow-Origin': '*' //probably only allow the AWS ec2 instance to access
-    },
-    body: JSON.stringify({ uploadURL: uploadURL }),
-  })
+  s3.upload(s3Params, function(err, data){
+    if(err){
+      throw err;
+    }
+    console.log(`Successfully uploaded at ${data.Location}.`);
+    uploadURL = data.Location;
+
+    console.log("calling callback");
+    callback(null, {
+      statusCode: 200,
+      headers: {
+        'Access-Control-Allow-Origin': '*' //probably only allow the AWS ec2 instance to access
+      },
+      body: JSON.stringify({ uploadURL: uploadURL }),
+    })
+  });
 };
 
 
