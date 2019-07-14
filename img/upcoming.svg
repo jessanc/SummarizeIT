@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="249px" height="87px" viewBox="0 0 249 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>Group 11</title>
+    <title>Group 14</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="0%" y1="49.9980476%" x2="99.9652778%" y2="49.9980476%" id="linearGradient-1">
@@ -26,32 +26,34 @@
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-11">
-            <g id="Group-10">
-                <path d="M8,0 L241,0 C245.418278,-8.11624501e-16 249,3.581722 249,8 L249,87 L0,87 L0,8 C-2.31743984e-15,3.581722 3.581722,8.11624501e-16 8,0 Z" id="Rectangle-Copy-4" fill="#4365FE"></path>
-                <text id="Upcoming-Meetings" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="70" y="65">Upcoming Meetings</tspan>
-                </text>
-                <text id="July,-13,-2019" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="77" y="36">July, 13, 2019</tspan>
-                </text>
-            </g>
-            <g id="Calendar" opacity="0.276064918" transform="translate(54.500000, 41.208309) rotate(-15.000000) translate(-54.500000, -41.208309) translate(13.000000, 11.708309)" fill-rule="nonzero">
-                <path d="M10.3513392,4.16245386 L0.872172582,58.1624539 C0.872172582,58.1624539 13.1013392,55.9695605 18.8721726,58.1624539 L10.3513392,4.16245386" id="Path" fill="url(#linearGradient-1)"></path>
-                <path d="M10.9748737,4.78660705 L19.4491183,58.786607 C19.4491183,58.786607 55.4387586,54.1899651 82.9748737,58.4070678 L73.1953054,4.97637667 L10.9748737,4.78660705" id="Path" fill="#FCFCFC"></path>
-                <polygon id="Path" fill="#58CAEA" points="46.4381378 33.0324728 37.7063291 33.267767 36.4381378 25.3148258 45.0036264 25.267767"></polygon>
-                <polygon id="Path" fill="#58CAEA" points="60.5480878 30.6250949 51.8162791 30.8368596 50.5480878 22.8839184 59.0927864 22.8368596"></polygon>
-                <polygon id="Path" fill="#58CAEA" points="73.6227617 32.0343614 64.8909529 32.2696555 63.6227617 24.3167143 72.1674602 24.2696555"></polygon>
-                <polygon id="Path" fill="#58CAEA" points="76.1230194 42.0453185 67.3912107 42.2570832 66.1230194 34.304142 74.6677179 34.2570832"></polygon>
-                <polygon id="Path" fill="#58CAEA" points="48.4901078 40.8527592 39.7582991 41.0645239 38.4901078 33.1115827 47.0348064 33.0645239"></polygon>
-                <polygon id="Path" fill="#58CAEA" points="35.1566149 40.3623597 26.4248062 40.5976538 25.1566149 32.6447126 33.7013135 32.5976538"></polygon>
-                <polygon id="Path" fill="#58CAEA" points="35.466202 50.7980751 26.716202 51.0333692 25.466202 43.080428 34.028702 43.0333692"></polygon>
-                <polygon id="Path" fill="#58CAEA" points="50.0244397 50.5578384 41.292631 50.7931325 40.0244397 42.8401914 48.5691383 42.7931325"></polygon>
-                <polygon id="Path" fill="#58CAEA" points="64.3238584 51.307057 55.5738584 51.5188217 54.3238584 43.5658805 62.8863584 43.5188217"></polygon>
-                <polygon id="Path" fill="url(#linearGradient-2)" points="62.7895265 41.554919 54.0395265 41.7902131 52.7895265 33.8372719 61.3520265 33.7902131"></polygon>
-                <polygon id="Path" fill="url(#linearGradient-3)" points="10.923247 4.19998029 13.3060969 20.1999803 75.923247 19.9802001 73.1467089 4.39778249"></polygon>
-                <polygon id="Path" fill="url(#linearGradient-4)" points="28.4525987 0.682779716 32.0604419 0.583400834 32.4525987 8.58340083 28.9075007 8.58340083"></polygon>
-                <polygon id="Path" fill="url(#linearGradient-5)" points="57.6984837 1.18685421 61.2821941 1.11996457 61.6984837 6.11996457 58.1509724 6.11996457"></polygon>
+        <g id="Group-14">
+            <g id="Group-11">
+                <g id="Group-10">
+                    <path d="M4,0 L245,0 C247.209139,-4.05812251e-16 249,1.790861 249,4 L249,87 L0,87 L0,4 C-1.15871992e-15,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-Copy-4" fill="#4365FE"></path>
+                    <text id="Upcoming-Meetings" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="70" y="65">Upcoming Meetings</tspan>
+                    </text>
+                    <text id="July,-13,-2019" font-family="Lato-Regular, Lato" font-size="16" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="77" y="36">July, 13, 2019</tspan>
+                    </text>
+                </g>
+                <g id="Calendar" opacity="0.276064918" transform="translate(54.500000, 41.208309) rotate(-15.000000) translate(-54.500000, -41.208309) translate(13.000000, 11.708309)" fill-rule="nonzero">
+                    <path d="M10.3513392,4.16245386 L0.872172582,58.1624539 C0.872172582,58.1624539 13.1013392,55.9695605 18.8721726,58.1624539 L10.3513392,4.16245386" id="Path" fill="url(#linearGradient-1)"></path>
+                    <path d="M10.9748737,4.78660705 L19.4491183,58.786607 C19.4491183,58.786607 55.4387586,54.1899651 82.9748737,58.4070678 L73.1953054,4.97637667 L10.9748737,4.78660705" id="Path" fill="#FCFCFC"></path>
+                    <polygon id="Path" fill="#58CAEA" points="46.4381378 33.0324728 37.7063291 33.267767 36.4381378 25.3148258 45.0036264 25.267767"></polygon>
+                    <polygon id="Path" fill="#58CAEA" points="60.5480878 30.6250949 51.8162791 30.8368596 50.5480878 22.8839184 59.0927864 22.8368596"></polygon>
+                    <polygon id="Path" fill="#58CAEA" points="73.6227617 32.0343614 64.8909529 32.2696555 63.6227617 24.3167143 72.1674602 24.2696555"></polygon>
+                    <polygon id="Path" fill="#58CAEA" points="76.1230194 42.0453185 67.3912107 42.2570832 66.1230194 34.304142 74.6677179 34.2570832"></polygon>
+                    <polygon id="Path" fill="#58CAEA" points="48.4901078 40.8527592 39.7582991 41.0645239 38.4901078 33.1115827 47.0348064 33.0645239"></polygon>
+                    <polygon id="Path" fill="#58CAEA" points="35.1566149 40.3623597 26.4248062 40.5976538 25.1566149 32.6447126 33.7013135 32.5976538"></polygon>
+                    <polygon id="Path" fill="#58CAEA" points="35.466202 50.7980751 26.716202 51.0333692 25.466202 43.080428 34.028702 43.0333692"></polygon>
+                    <polygon id="Path" fill="#58CAEA" points="50.0244397 50.5578384 41.292631 50.7931325 40.0244397 42.8401914 48.5691383 42.7931325"></polygon>
+                    <polygon id="Path" fill="#58CAEA" points="64.3238584 51.307057 55.5738584 51.5188217 54.3238584 43.5658805 62.8863584 43.5188217"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-2)" points="62.7895265 41.554919 54.0395265 41.7902131 52.7895265 33.8372719 61.3520265 33.7902131"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-3)" points="10.923247 4.19998029 13.3060969 20.1999803 75.923247 19.9802001 73.1467089 4.39778249"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-4)" points="28.4525987 0.682779716 32.0604419 0.583400834 32.4525987 8.58340083 28.9075007 8.58340083"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-5)" points="57.6984837 1.18685421 61.2821941 1.11996457 61.6984837 6.11996457 58.1509724 6.11996457"></polygon>
+                </g>
             </g>
         </g>
     </g>
