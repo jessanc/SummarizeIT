@@ -2,9 +2,9 @@ body {
     background-image:url(../img/hero.svg);
     background-repeat: no-repeat;
     background-size: 75%;
-    background-position: bottom;
+    background-position: 20em 28em;
     font-family: 'Lato', sans-serif;
-    color:#1E1F22;
+    color:#6B6B6B;
     line-height: 1.5rem;
 
   }
@@ -22,9 +22,9 @@ body {
   
   h3 {
     position: relative;
-    color: white;
+    color: 333333;
     font-family: 'lato', sans-serif;
-    font-size: 1.2em !important;
+    font-size: 1.1em !important;
     padding-top: 3%;
   }
   
@@ -50,22 +50,22 @@ body {
   p{
     font-family: 'Lato', sans-serif;
     letter-spacing: 0.01px;
-    color:#1E1F22;
+    font-size: 1.2em;
+    color:#6B6B6B;
   }
   
   img {
       width: 100%;
   }
   
+.logo{
+width: 130%;
+}
+
   .moveup{
-     margin-top:-17%;
-     margin-bottom:20%;
+     margin-top:-80%;
   }
 
-.background{
-    position: absolute;
-    z-index: -1;
-}
     
   
 .box{
@@ -93,7 +93,7 @@ body {
     }
   
     .moveup{
-      margin-top:-60%;
+      margin-top:60%;
       margin-bottom:60%;
    }
    
