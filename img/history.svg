@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="137px" height="87px" viewBox="0 0 137 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30.1040802,0 L3.89591982,0 C1.74679569,0 0,1.74679569 0,3.89591982 L0,23.0209198 C0,25.1700439 1.74679569,26.9165802 3.89591982,26.9165802 L5.66658018,26.9165802 L5.66658018,32.9375 C5.66658018,33.368103 5.9259796,33.7548676 6.32260135,33.9193268 C6.45437619,33.9730225 6.59185791,34 6.72908018,34 C7.00534061,34 7.27745058,33.8923492 7.4800415,33.6884613 L14.2516632,26.9165802 L30.1040802,26.9165802 C32.2532043,26.9165802 34,25.1700439 34,23.0209198 L34,3.89591982 C34,1.74679569 32.2532043,0 30.1040802,0 Z M17,22.6665802 C11.9227753,22.6665802 7.79158018,18.5356445 7.79158018,13.4584198 C7.79158018,8.38093565 11.9227753,4.25 17,4.25 C22.0772247,4.25 26.2084198,8.38093565 26.2084198,13.4584198 C26.2084198,18.5356445 22.0772247,22.6665802 17,22.6665802 Z" id="path-1"></path>
+        <filter x="-20.6%" y="-14.7%" width="141.2%" height="141.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.430281929   0 0 0 0 0.430281929   0 0 0 0 0.430281929  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M18.5710923,17 C18.20543,17 17.8397677,16.8530578 17.5612053,16.5605469 L15.4184976,14.3105469 C15.1498744,14.0301209 15,13.6488953 15,13.2500916 L15,9.49990843 C15,8.67044066 15.6397782,8 16.4283846,8 C17.216991,8 17.8567692,8.67044066 17.8567692,9.49990843 L17.8567692,12.6290894 L19.5809793,14.4396363 C20.1396736,15.0260315 20.1396736,15.973877 19.5809793,16.5605469 C19.3024168,16.8530578 18.9367546,17 18.5710923,17 Z" id="path-3"></path>
+        <filter x="-140.0%" y="-55.6%" width="380.0%" height="255.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.430281929   0 0 0 0 0.430281929   0 0 0 0 0.430281929  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6">
+            <rect id="Rectangle-Copy-6" fill="#4365FE" x="0" y="0" width="137" height="87" rx="8"></rect>
+            <g id="chat-copy-2" transform="translate(52.000000, 15.000000)" fill-rule="nonzero">
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <g id="Path">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

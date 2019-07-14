@@ -1,0 +1,111 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color:#1E1F22;
+    line-height: 1.5rem;
+  }
+  
+  h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5em;
+  }
+  
+  
+  h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+  }
+  
+  h3 {
+    position: relative;
+    color: white;
+    font-family: 'lato', sans-serif;
+    font-size: 1.2em !important;
+    padding-top: 3%;
+  }
+  
+  h4{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1em;
+    letter-spacing: .01px;
+  }
+  
+  h5{
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    letter-spacing: .01px;
+    color:#7441FB;
+  }
+  
+  
+  .name{
+    color:#7441FB;
+  }
+  
+  
+  p{
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.01px;
+    color:#1E1F22;
+  }
+  
+  img {
+      width: 100%;
+  }
+  
+  .moveup{
+     margin-top:-20`%;
+     margin-bottom:20%;
+  }
+  
+  .box{
+padding-left: 13%;
+padding-right: 13%;
+  }
+
+  .logo{
+    width:15%;
+  }
+  
+  .jumbotron{
+    background: white!important;
+  }
+
+
+  @media (max-width:767px){
+  #footer h5 {
+    padding-left: 0;
+    border-left: transparent;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+  }
+  }
+  
+  .divider-width{
+    width:5%;
+  }
+  
+  
+  @media only screen and (max-width: 600px) {
+    h1 {
+      font-size:1.8em;
+    }
+  
+  
+    .divider-width{
+      width:10%;
+    }
+  
+    .moveup{
+      margin-top:-60%;
+      margin-bottom:60%;
+   }
+  
+   .goal li:first-child {
+    margin-top:0%;
+  }
+  
+  .arrow{
+    margin-bottom: 5%;
+  }
+   
+  }

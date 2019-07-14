@@ -1,0 +1,24 @@
+{
+  "name": "summarizeit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node handler.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },    
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessanc/SummarizeIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessanc/SummarizeIT/issues"
+  },
+  "homepage": "https://github.com/jessanc/SummarizeIT#readme"
+}
