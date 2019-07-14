@@ -32,6 +32,8 @@
     }
   </script>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
 </head>
 
 <body link="black">
@@ -62,25 +64,32 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-3">
-                        <img class="box pt-5 mt-5 pl-3 pr-3" src="./img/start.svg" alt="start meeting" onclick="redirect();">
-                        <!-- <h3 class="moveup text-center font-weight-bold">Start Meeting</h3>               -->
-                    </div>
+                  <div class="loader">
 
-                    <div class="col-xs-12 col-sm-3">
-                        <img  class="box pt-5 mt-5 pl-3 pr-3" src="./img/analyze.svg" alt="">
-                        <!-- <h3 class="moveup text-center font-weight-bold">Analyze Meeting</h3> -->
-                    </div>
+                    <script type="text/javascript">
 
-                    <div class="col-xs-12 col-sm-6">
-                        <img class="upcoming pl-5 pr-5" src="./img/upcoming.svg" alt="">
-                    </div>
+                      let guid = Math.random().toString(36).substring(2) + Date.now().toString(36);
+                      window.guid = guid;
+                      $.ajax({
+                        url: 'upload.php?guid='+guid,
+                        success: function(data) {
+                          $('.result').html(data);
+                          console.log(data);
+                        }
+                      });
+                    // window.location.href = "./upload.php";
+                      </script>
+                  </div>
+
                 </div>
 </div>
         </div>
     </div>
     </main>
 </div>
+<script type="text/javascript">
+  console.log(guid);
+</script>
 
         <!-- jQuery first, then Popper.js, then Bootstrap JS. -->
         <script src="node_modules/jquery/dist/jquery.slim.min.js"></script>
