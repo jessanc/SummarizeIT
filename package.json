@@ -4,13 +4,17 @@
   "description": "",
   "main": "handler.js",
   "dependencies": {
-    "bootstrap": "^4.3.1"
+    "bootstrap": "^4.3.1",
+    "aws-sdk": "^2.493.0",
+    "promise": "^8.0.3",
+    "serverless": "^1.47.0",
+    "uuid": "^3.3.2"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node handler.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },    
+  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jessanc/SummarizeIT.git"
