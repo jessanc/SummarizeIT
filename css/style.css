@@ -1,7 +1,12 @@
 body {
+    background-image:url(../img/hero.svg);
+    background-repeat: no-repeat;
+    background-size: 75%;
+    background-position: bottom;
     font-family: 'Lato', sans-serif;
     color:#1E1F22;
     line-height: 1.5rem;
+
   }
   
   h1{
@@ -53,59 +58,43 @@ body {
   }
   
   .moveup{
-     margin-top:-20%;
+     margin-top:-17%;
      margin-bottom:20%;
   }
+
+.background{
+    position: absolute;
+    z-index: -1;
+}
+    
   
-  .box{
-padding-left: 13%;
-padding-right: 13%;
+.box{
+    padding-left: 13%;
+    padding-right: 13%;
   }
 
-  .logo{
-    width:15%;
-  }
-  
-  .jumbotron{
-    background: white!important;
+.upcoming{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.box:hover {
+    transform: translateY(-3%);
+
+      filter:drop-shadow(0px 5px 17px #B5BDE4);
   }
 
 
-  @media (max-width:767px){
-  #footer h5 {
-    padding-left: 0;
-    border-left: transparent;
-    padding-bottom: 0px;
-    margin-bottom: 10px;
-  }
-  }
+
   
-  .divider-width{
-    width:5%;
-  }
-  
-  
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 576px) {
     h1 {
       font-size:1.8em;
-    }
-  
-  
-    .divider-width{
-      width:10%;
     }
   
     .moveup{
       margin-top:-60%;
       margin-bottom:60%;
    }
-  
-   .goal li:first-child {
-    margin-top:0%;
-  }
-  
-  .arrow{
-    margin-bottom: 5%;
-  }
    
   }

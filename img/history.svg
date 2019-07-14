@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="137px" height="87px" viewBox="0 0 137 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>Group 6</title>
+    <title>Group 9</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M30.1040802,0 L3.89591982,0 C1.74679569,0 0,1.74679569 0,3.89591982 L0,23.0209198 C0,25.1700439 1.74679569,26.9165802 3.89591982,26.9165802 L5.66658018,26.9165802 L5.66658018,32.9375 C5.66658018,33.368103 5.9259796,33.7548676 6.32260135,33.9193268 C6.45437619,33.9730225 6.59185791,34 6.72908018,34 C7.00534061,34 7.27745058,33.8923492 7.4800415,33.6884613 L14.2516632,26.9165802 L30.1040802,26.9165802 C32.2532043,26.9165802 34,25.1700439 34,23.0209198 L34,3.89591982 C34,1.74679569 32.2532043,0 30.1040802,0 Z M17,22.6665802 C11.9227753,22.6665802 7.79158018,18.5356445 7.79158018,13.4584198 C7.79158018,8.38093565 11.9227753,4.25 17,4.25 C22.0772247,4.25 26.2084198,8.38093565 26.2084198,13.4584198 C26.2084198,18.5356445 22.0772247,22.6665802 17,22.6665802 Z" id="path-1"></path>
@@ -18,8 +18,11 @@
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-6">
+        <g id="Group-9">
             <rect id="Rectangle-Copy-6" fill="#4365FE" x="0" y="0" width="137" height="87" rx="8"></rect>
+            <text id="Meeting-History-Copy" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" fill="#FFFFFF">
+                <tspan x="25" y="71">Meeting History</tspan>
+            </text>
             <g id="chat-copy-2" transform="translate(52.000000, 15.000000)" fill-rule="nonzero">
                 <g id="Shape">
                     <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>

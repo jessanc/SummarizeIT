@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="137px" height="87px" viewBox="0 0 137 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>Group 4</title>
+    <title>Group 7</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-4">
+        <g id="Group-7">
             <rect id="Rectangle-Copy-3" fill="#4365FE" x="0" y="0" width="137" height="87" rx="8"></rect>
+            <text id="Start-Meeting" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" fill="#FFFFFF">
+                <tspan x="31" y="71">Start Meeting</tspan>
+            </text>
             <g id="video-camera-(1)-copy" transform="translate(68.500000, 32.000000) scale(-1, -1) rotate(-180.000000) translate(-68.500000, -32.000000) translate(52.000000, 18.000000)" fill="#FFFFFF" fill-rule="nonzero">
                 <path d="M25,24.9333923 C25,25.5224229 24.2538732,26 23.3333753,26 L1.66662473,26 C0.746126794,26 0,25.5224229 0,24.9333923 L0,11.0666709 C0,10.4775139 0.746126794,10 1.66662473,10 L23.3333753,10 C24.2538732,10 25,10.4776402 25,11.0666709 L25,24.9333923 L25,24.9333923 Z" id="Path"></path>
                 <ellipse id="Oval" cx="6" cy="5.5" rx="4" ry="3.5"></ellipse>

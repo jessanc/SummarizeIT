@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="137px" height="87px" viewBox="0 0 137 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>Group 5</title>
+    <title>Group 8</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M1,14 C0.447714286,14 0,14.5062323 0,15.130704 L0,18.869296 C0,19.4937677 0.447714286,20 1,20 C1.55228571,20 2,19.4937677 2,18.869296 L2,15.130704 C2,14.5060708 1.55228571,14 1,14 Z" id="path-1"></path>
@@ -78,7 +78,7 @@
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-5">
+        <g id="Group-8">
             <rect id="Rectangle-Copy-5" fill="#4365FE" x="0" y="0" width="137" height="87" rx="8"></rect>
             <g id="sound-frecuency-copy" transform="translate(44.000000, 15.000000)" fill-rule="nonzero">
                 <g id="Path">
@@ -130,6 +130,9 @@
                     <use fill="#FFFFFF" xlink:href="#path-23"></use>
                 </g>
             </g>
+            <text id="Analyze-Meeting-Copy" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" fill="#FFFFFF">
+                <tspan x="23" y="71">Analyze Meeting</tspan>
+            </text>
         </g>
     </g>
 </svg>
